@@ -47,7 +47,7 @@ Add managed forms to your Nuxt application while keeping form content and config
 ### Vanilla JavaScript
 Add JCees Forms directly to your website or application without requiring a frontend framework.
 
-- [JavaScript Developer Guide](https://www.jcees-forms.com/developer-guide/)
+- [JavaScript Developer Guide](https://www.jcees-forms.com/developer-guide/javascript/quick-start)
 - [Vanilla JavaScript Form Builder](https://www.jcees-forms.com/javascript-form-builder)
 
 ## Why JCees Forms?
